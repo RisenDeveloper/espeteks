@@ -1,0 +1,1 @@
+import{c as e,s as t,w as n}from"./api-lDPK82Zi.js";function r(){return n({queryKey:e.publicMenu,queryFn:t.menu,staleTime:3e4,refetchInterval:6e4})}var i={table:`Na mesa`,pickup:`Retirada no balcão`,delivery:`Entrega`};export{r as n,i as t};
